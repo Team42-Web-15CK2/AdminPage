@@ -17,7 +17,7 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 ##### H5
 ###### H6
 
-với h1, h2 có thể dùng (alt-h), (=/-) để tạo gạch ngang 
+với h1 và h2 có thể dùng (alt-h), dùng (=/-) để tạo gạch ngang 
 
 alt-h1
 ==========
@@ -30,7 +30,8 @@ alt-h2
 - in nghiêng: text nằm giữa 1 cặp (*) hoặc (_) 
 - in đậm: text nằm giữa 1 cặp (**) hoặc (__ )
 - emphasis có thể nằm lồng nhau **asterisks và _nunderscores_**
-- gạch ngang giữa text: text nằm giữa cặp (~~) 
+- gạch ngang giữa text: text nằm giữa cặp (~~)
+- Để thụt đầu dòng sử dụng dấu (.) 
 ======
 ## Lists
 Dùng (*/+/-) để tạo list không theo stt.
@@ -42,7 +43,6 @@ vd:
 + stt
 - không stt
 
-Để thụt đầu dòng sử dụng dấu (.)
 =======
 ## Links
 Có 2 cách viết link:
@@ -97,7 +97,7 @@ Có thể viết html trong file markdown
 
 ========
 ## Horizontal Rule
-Dùng từ 3 dấu (- hoặc * hoặc _)  hoặc nhiều hơn để tạo đường ngang ngăn cách 
+Dùng từ 3 dấu (- hoặc * hoặc _)  hoặc nhiều hơn để tạo đường ngang ngăn cách. 
 
 ========
 ## Line Breaks
