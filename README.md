@@ -17,10 +17,10 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 ##### H5
 ###### H6
 
-với h1 và h2 có thể dùng (alt-h), dùng (=/-) để tạo gạch ngang 
+với h1 và h2 có thể dùng (alt-h)
 
 alt-h1
-==========
+----------
 
 alt-h2
 ------------
@@ -32,7 +32,7 @@ alt-h2
 - emphasis có thể nằm lồng nhau **asterisks và _nunderscores_**
 - gạch ngang giữa text: text nằm giữa cặp (~~)
 - Để thụt đầu dòng sử dụng dấu (.) 
-======
+----------------
 ## Lists
 Dùng (*/+/-) để tạo list không theo stt.
 Dùng số để tạo list theo stt
@@ -42,8 +42,7 @@ vd:
 3. lists
 + stt
 - không stt
-
-=======
+---------------------
 ## Links
 Có 2 cách viết link:
 1. [text](urls)
@@ -54,7 +53,7 @@ Có 2 cách viết link:
 2. dùng ["text"] gán với đường dẫn bằng dấu :, khi dùng thì ghi lại ["text"]
 ...vd: trở về [trang chủ]
 [trang chủ]: https://home
-=======
+--------------------
 ## Images
 
 Thêm dấu "!" trước cú pháp sử dụng links 
@@ -63,8 +62,8 @@ Thêm dấu "!" trước cú pháp sử dụng links
 
 .......[tên hình ảnh]
 .......[tên hình ảnh]:link
-
-##C ode and Syntax Highlight
+-----------------------
+##Code and Syntax Highlight
 1. Để highlight, đặt dòng text vào giữa cặp dấu (`)
 2. để viết code block, dùng cú pháp
 (```[ngôn ngữ code])
@@ -78,7 +77,7 @@ vd:
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-========
+----------------------
 ## Tables
 Dùng (|) để ngăn các cột,(------) để ngăn giữa tiêu đề cột và các giá trị bên dưới bảng 
 vd: 
@@ -87,23 +86,23 @@ vd:
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-========
+--------------
 ## Blockquotes
 Dùng (>) trước text để tạo 1 blockquote 
 > example
-========
+---------------
 ## Inline HTML
 Có thể viết html trong file markdown
 
-========
+-----------------
 ## Horizontal Rule
 Dùng từ 3 dấu (- hoặc * hoặc _)  hoặc nhiều hơn để tạo đường ngang ngăn cách. 
 
-========
+---------------
 ## Line Breaks
 Sử dụng <enter>
 
-========
+------------------
 ## Youtube videos
 Không thể add hoàn toàn 1 video vào markdown nhưng có thể add 1 hình ảnh với đường link đến video đó
 
