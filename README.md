@@ -20,10 +20,10 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 Với H1 và H2 có thể dùng (Alt-h), chú ý in hoa in thường 
 
 Alt-H1
-----------
+========
 
 Alt-H2
-------------
+--------
 
 ## Emphasis
 - In nghiêng: text nằm giữa 1 cặp (*) hoặc (_) 
