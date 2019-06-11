@@ -19,10 +19,10 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 
 Với H1 và H2 có thể dùng (Alt-h), chú ý in hoa in thường 
 
-Alt-H1
+Alt -H1
 ----------
 
-Alt-H2
+Alt -H2
 ------------
 
 ## Emphasis
@@ -56,8 +56,9 @@ Có 2 cách viết link:
 --------------------
 ## Images
 Thêm dấu "!" trước cú pháp sử dụng links:
-1."![tên hình ảnh](link đến hình hảnh)".
-2."[tên hình ảnh]".
+
+1. "![tên hình ảnh](link đến hình hảnh)".
+2. "[tên hình ảnh]".
 "[tên hình ảnh]:links"
 -----------------------
 ## Code and Syntax Highlight
