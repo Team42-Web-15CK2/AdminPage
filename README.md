@@ -1,10 +1,10 @@
-### Markdown là gì ?
+# Markdown là gì ?
 
 Ngôn ngữ đánh dấu văn bản, được tạo ra bởi John Grauber. Tương tự html nhưng cú pháp đơn giản hơn. Thường dùng viết file README.MD.
 
-[link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h4)
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h4)
 
-### Syntax cơ bản
+# Syntax cơ bản
 
 ## Headers
 
@@ -17,7 +17,7 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 ##### H5
 ###### H6
 
-với H1 và H2 có thể dùng (Alt-h), chú ý in hoa in thường 
+Với H1 và H2 có thể dùng (Alt-h), chú ý in hoa in thường 
 
 Alt-H1
 ----------
@@ -26,10 +26,10 @@ Alt-H2
 ------------
 
 ## Emphasis
-- in nghiêng: text nằm giữa 1 cặp (*) hoặc (_) 
-- in đậm: text nằm giữa 1 cặp (**) hoặc (__ )
-- emphasis có thể nằm lồng nhau **asterisks và _nunderscores_**
-- gạch ngang giữa text: text nằm giữa cặp (~~)
+- In nghiêng: text nằm giữa 1 cặp (*) hoặc (_) 
+- In đậm: text nằm giữa 1 cặp (**) hoặc (__ )
+- Emphasis có thể nằm lồng nhau **asterisks và _nunderscores_**
+- Gạch ngang giữa text: text nằm giữa cặp (~~)
 - Để thụt đầu dòng sử dụng dấu (.) 
 ----------------
 ## Lists
@@ -59,8 +59,8 @@ vd: trở về [trang chủ]
 
 Thêm dấu "!" trước cú pháp sử dụng links. 
 vd: 
-1.![tên hình ảnh](link đến hình hảnh)
-2.[tên hình ảnh]
+1.![tên hình ảnh](link đến hình hảnh).
+2.[tên hình ảnh].
 [tên hình ảnh]:links
 -----------------------
 ## Code and Syntax Highlight
@@ -76,7 +76,7 @@ alert(s);
 ```
 ----------------------
 ## Tables
-Dùng (|) để ngăn các cột,(------) để ngăn giữa tiêu đề cột và các giá trị bên dưới bảng 
+Dùng (|) để ngăn các cột,(------) để ngăn giữa tiêu đề cột và các giá trị bên dưới bảng. 
 vd: 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
