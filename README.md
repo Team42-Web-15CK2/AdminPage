@@ -17,12 +17,12 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 ##### H5
 ###### H6
 
-với h1 và h2 có thể dùng (alt-h)
+với h1 và h2 có thể dùng (Alt-h)
 
-alt-h1
+Alt-h1
 ----------
 
-alt-h2
+Alt-h2
 ------------
 
 ## Emphasis
@@ -55,15 +55,13 @@ Có 2 cách viết link:
 [trang chủ]: https://home
 --------------------
 ## Images
-
 Thêm dấu "!" trước cú pháp sử dụng links 
-
-...vd: ![tên hình ảnh](link đến hình hảnh)
-.......[tên hình ảnh]
-.......[tên hình ảnh]:link
+vd: 
+1.![tên hình ảnh](link đến hình hảnh)
+2.[tên hình ảnh]
+[tên hình ảnh]:link
 -----------------------
-
-##Code and Syntax Highlight
+## Code and Syntax Highlight
 1. Để highlight, đặt dòng text vào giữa cặp dấu (`)
 2. để viết code block, dùng cú pháp
 .......(```[ngôn ngữ code])
