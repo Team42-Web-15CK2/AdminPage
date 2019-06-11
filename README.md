@@ -59,19 +59,16 @@ Có 2 cách viết link:
 Thêm dấu "!" trước cú pháp sử dụng links 
 
 ...vd: ![tên hình ảnh](link đến hình hảnh)
-
 .......[tên hình ảnh]
 .......[tên hình ảnh]:link
 -----------------------
+
 ##Code and Syntax Highlight
 1. Để highlight, đặt dòng text vào giữa cặp dấu (`)
 2. để viết code block, dùng cú pháp
-(```[ngôn ngữ code])
-
-code 
-
-(```)
-
+.......(```[ngôn ngữ code])
+........code 
+.......(```)
 vd: 
 ```javascript
 var s = "JavaScript syntax highlighting";
