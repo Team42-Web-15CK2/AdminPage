@@ -46,22 +46,19 @@ vd:
 Có 2 cách viết link:
 1. [text](urls)
 
-vd: [trang chủ](http://home)
+"[trang chủ](http://home)"
 - text: dòng text hiển thị.
 - urls: đường dẫn.
 
 2. dùng ["text"] gán với đường dẫn bằng dấu :, khi dùng thì ghi lại ["text"].
-
-vd: trở về [trang chủ]
+"trở về [trang chủ]"
 [trang chủ]: https://home
 --------------------
 ## Images
-
-Thêm dấu "!" trước cú pháp sử dụng links. 
-vd: 
-1.![tên hình ảnh](link đến hình hảnh).
-2.[tên hình ảnh].
-[tên hình ảnh]:links
+Thêm dấu "!" trước cú pháp sử dụng links:
+1."![tên hình ảnh](link đến hình hảnh)".
+2."[tên hình ảnh]".
+"[tên hình ảnh]:links"
 -----------------------
 ## Code and Syntax Highlight
 1. Để highlight, đặt dòng text vào giữa cặp dấu (`)
@@ -76,8 +73,8 @@ alert(s);
 ```
 ----------------------
 ## Tables
-Dùng (|) để ngăn các cột,(------) để ngăn giữa tiêu đề cột và các giá trị bên dưới bảng. 
-vd: 
+Dùng "|"" để ngăn các cột, "-----" để ngăn giữa tiêu đề cột và các giá trị bên dưới bảng. 
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
