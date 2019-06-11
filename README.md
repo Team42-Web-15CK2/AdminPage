@@ -17,16 +17,15 @@ Dùng dấu (#) trước text để tạo header, tương tự thẻ <h> trong h
 ##### H5
 ###### H6
 
-với h1 và h2 có thể dùng (Alt-h)
+với H1 và H2 có thể dùng (Alt-h), chú ý in hoa in thường 
 
-Alt-h1
+Alt-H1
 ----------
 
-Alt-h2
+Alt-H2
 ------------
 
 ## Emphasis
-
 - in nghiêng: text nằm giữa 1 cặp (*) hoặc (_) 
 - in đậm: text nằm giữa 1 cặp (**) hoặc (__ )
 - emphasis có thể nằm lồng nhau **asterisks và _nunderscores_**
@@ -46,15 +45,18 @@ vd:
 ## Links
 Có 2 cách viết link:
 1. [text](urls)
-...vd: [trang chủ](http://home)
-...text: dòng text hiển thị 
-...urls: đường dẫn 
+
+vd: [trang chủ](http://home)
+- text: dòng text hiển thị 
+- urls: đường dẫn 
 
 2. dùng ["text"] gán với đường dẫn bằng dấu :, khi dùng thì ghi lại ["text"]
-...vd: trở về [trang chủ]
+
+vd: trở về [trang chủ]
 [trang chủ]: https://home
 --------------------
 ## Images
+
 Thêm dấu "!" trước cú pháp sử dụng links 
 vd: 
 1.![tên hình ảnh](link đến hình hảnh)
