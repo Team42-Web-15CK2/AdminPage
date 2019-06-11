@@ -47,21 +47,21 @@ Có 2 cách viết link:
 1. [text](urls)
 
 vd: [trang chủ](http://home)
-- text: dòng text hiển thị 
-- urls: đường dẫn 
+- text: dòng text hiển thị.
+- urls: đường dẫn.
 
-2. dùng ["text"] gán với đường dẫn bằng dấu :, khi dùng thì ghi lại ["text"]
+2. dùng ["text"] gán với đường dẫn bằng dấu :, khi dùng thì ghi lại ["text"].
 
 vd: trở về [trang chủ]
 [trang chủ]: https://home
 --------------------
 ## Images
 
-Thêm dấu "!" trước cú pháp sử dụng links 
+Thêm dấu "!" trước cú pháp sử dụng links. 
 vd: 
 1.![tên hình ảnh](link đến hình hảnh)
 2.[tên hình ảnh]
-[tên hình ảnh]:link
+[tên hình ảnh]:links
 -----------------------
 ## Code and Syntax Highlight
 1. Để highlight, đặt dòng text vào giữa cặp dấu (`)
